@@ -1,0 +1,16 @@
+{
+  "name": "npm_mod",
+  "version": "1.0.0",
+  "description": "employee management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sweta karn",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
+  }
+}
